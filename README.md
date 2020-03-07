@@ -6,6 +6,10 @@ This token states that *the entity carrying* it **[doesn't want to be tracked](h
 
 ## [🛒 shop @ spreadshirt.de](https://shop.spreadshirt.de/do-not/)
 
+# demo
+
+[![Alt text](https://img.youtube.com/vi/n9_cxTayS1g/0.jpg)](https://www.youtube.com/watch?v=n9_cxTayS1g)
+
 # use yourself
 
 ## QR Codes
