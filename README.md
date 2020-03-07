@@ -1,10 +1,14 @@
-# do!not/track
+# [do!not](https://do-not.org)/track
 
 [Free](https://creativecommons.org/licenses/by-sa/4.0/) to use [DNT](https://en.wikipedia.org/wiki/Do_Not_Track) tokens for real-life applications.
 
 # about
 
 The token states that **You [don't want to be tracked](https://en.wikipedia.org/wiki/Do_Not_Track_legislation)** in any form neither in digital nor in real life.
+
+# support us
+
+## [🛒 shop @ spreadshirt.de](https://shop.spreadshirt.de/do-not/)
 
 ## QR Codes
 
