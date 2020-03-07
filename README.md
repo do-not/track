@@ -1,14 +1,12 @@
-# [do!not](https://do-not.org)/track
+# about - [do!not](https://do-not.org)/track
 
-[Free](https://creativecommons.org/licenses/by-sa/4.0/) to use [DNT](https://en.wikipedia.org/wiki/Do_Not_Track) tokens for real-life applications.
-
-# about
-
-The token states that **You [don't want to be tracked](https://en.wikipedia.org/wiki/Do_Not_Track_legislation)** in any form neither in digital nor in real life.
+This token states that *the entity carrying* it **[doesn't want to be tracked](https://en.wikipedia.org/wiki/Do_Not_Track_legislation) in any form** neither in digital nor in real life, like e.g. on **photos or videos**!
 
 # support us
 
 ## [🛒 shop @ spreadshirt.de](https://shop.spreadshirt.de/do-not/)
+
+# use yourself
 
 ## QR Codes
 
@@ -29,3 +27,7 @@ M (middle, ~15% destroyed data may be corrected)
 Q (quality, ~25% destroyed data may be corrected)
 
 H (high, ~30% destroyed data may be corrected)
+
+# license & usage
+
+[Free](https://creativecommons.org/licenses/by-sa/4.0/) to use [DNT](https://en.wikipedia.org/wiki/Do_Not_Track) tokens for real-life applications.
