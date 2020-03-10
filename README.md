@@ -8,7 +8,7 @@ This token states that *the entity carrying* it **[doesn't want to be tracked](h
 
 # demo
 
-[![Alt text](https://img.youtube.com/vi/n9_cxTayS1g/0.jpg)](https://www.youtube.com/watch?v=n9_cxTayS1g)
+{% include youtube.html id=n9_cxTayS1g %}
 
 # use yourself
 
