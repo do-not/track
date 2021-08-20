@@ -4,7 +4,7 @@ This token states that *the entity carrying* it **[doesn't want to be tracked](h
 
 # support us
 
-## [🛒 shop @ spreadshirt](https://shop.spreadshirt.net/do-not/)
+## [🛒 shop @ spreadshirt](https://do-not.myspreadshop.net)
 
 # demo
 
